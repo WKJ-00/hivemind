@@ -1,4 +1,4 @@
-## Hivemind: decentralized deep learning in PyTorch
+## Hivemind: decentralized deep learning in PyTorch (Customed in pairwise)
 
 [![Build status](https://circleci.com/gh/learning-at-home/hivemind.svg?style=shield)](https://circleci.com/gh/learning-at-home/hivemind)
 [![Documentation Status](https://readthedocs.org/projects/learning-at-home/badge/?version=latest)](https://learning-at-home.readthedocs.io/en/latest/?badge=latest)
